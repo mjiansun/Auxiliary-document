@@ -9,43 +9,43 @@ Currently, the models are compatible with TensorFlow 1.0 or later. If you are ru
 
 Models
 
-adversarial_crypto: protecting communications with adversarial neural cryptography.
-adversarial_text: semi-supervised sequence learning with adversarial training.
-attention_ocr: a model for real-world image text extraction.
-audioset: Models and supporting code for use with AudioSet.
-autoencoder: various autoencoders.
-brain_coder: Program synthesis with reinforcement learning.
-cognitive_mapping_and_planning: implementation of a spatial memory based mapping and planning architecture for visual navigation.
-compression: compressing and decompressing images using a pre-trained Residual GRU network.
-deeplab: deep labelling for semantic image segmentation.
-delf: deep local features for image matching and retrieval.
-differential_privacy: privacy-preserving student models from multiple teachers.
-domain_adaptation: domain separation networks.
-gan: generative adversarial networks.
-im2txt: image-to-text neural network for image captioning.
-inception: deep convolutional networks for computer vision.
-learning_to_remember_rare_events: a large-scale life-long memory module for use in deep learning.
-lexnet_nc: a distributed model for noun compound relationship classification.
-lfads: sequential variational autoencoder for analyzing neuroscience data.
-lm_1b: language modeling on the one billion word benchmark.
-maskgan: text generation with GANs.
-namignizer: recognize and generate names.
-neural_gpu: highly parallel neural computer.
-neural_programmer: neural network augmented with logic and mathematic operations.
-next_frame_prediction: probabilistic future frame synthesis via cross convolutional networks.
-object_detection: localizing and identifying multiple objects in a single image.
-pcl_rl: code for several reinforcement learning algorithms, including Path Consistency Learning.
-ptn: perspective transformer nets for 3D object reconstruction.
-qa_kg: module networks for question answering on knowledge graphs.
-real_nvp: density estimation using real-valued non-volume preserving (real NVP) transformations.
-rebar: low-variance, unbiased gradient estimates for discrete latent variable models.
-resnet: deep and wide residual networks.
-skip_thoughts: recurrent neural network sentence-to-vector encoder.
-slim: image classification models in TF-Slim.
-street: identify the name of a street (in France) from an image using a Deep RNN.
-swivel: the Swivel algorithm for generating word embeddings.
-syntaxnet: neural models of natural language syntax.
-tcn: Self-supervised representation learning from multi-view video.
-textsum: sequence-to-sequence with attention model for text summarization.
-transformer: spatial transformer network, which allows the spatial manipulation of data within the network.
-video_prediction: predicting future video frames with neural advection.
+adversarial_crypto: protecting communications with adversarial neural cryptography.  
+adversarial_text: semi-supervised sequence learning with adversarial training.  
+attention_ocr: a model for real-world image text extraction.  
+audioset: Models and supporting code for use with AudioSet.  
+autoencoder: various autoencoders.  
+brain_coder: Program synthesis with reinforcement learning.  
+cognitive_mapping_and_planning: implementation of a spatial memory based mapping and planning architecture for visual navigation.  
+compression: compressing and decompressing images using a pre-trained Residual GRU network.  
+deeplab: deep labelling for semantic image segmentation.  
+delf: deep local features for image matching and retrieval.  
+differential_privacy: privacy-preserving student models from multiple teachers.  
+domain_adaptation: domain separation networks.  
+gan: generative adversarial networks.  
+im2txt: image-to-text neural network for image captioning.  
+inception: deep convolutional networks for computer vision.  
+learning_to_remember_rare_events: a large-scale life-long memory module for use in deep learning.  
+lexnet_nc: a distributed model for noun compound relationship classification.  
+lfads: sequential variational autoencoder for analyzing neuroscience data.  
+lm_1b: language modeling on the one billion word benchmark.  
+maskgan: text generation with GANs.  
+namignizer: recognize and generate names.  
+neural_gpu: highly parallel neural computer.  
+neural_programmer: neural network augmented with logic and mathematic operations.  
+next_frame_prediction: probabilistic future frame synthesis via cross convolutional networks.  
+object_detection: localizing and identifying multiple objects in a single image.  
+pcl_rl: code for several reinforcement learning algorithms, including Path Consistency Learning.  
+ptn: perspective transformer nets for 3D object reconstruction.  
+qa_kg: module networks for question answering on knowledge graphs.  
+real_nvp: density estimation using real-valued non-volume preserving (real NVP) transformations.  
+rebar: low-variance, unbiased gradient estimates for discrete latent variable models.  
+resnet: deep and wide residual networks.  
+skip_thoughts: recurrent neural network sentence-to-vector encoder.  
+slim: image classification models in TF-Slim.  
+street: identify the name of a street (in France) from an image using a Deep RNN.  
+swivel: the Swivel algorithm for generating word embeddings.  
+syntaxnet: neural models of natural language syntax.  
+tcn: Self-supervised representation learning from multi-view video.  
+textsum: sequence-to-sequence with attention model for text summarization.  
+transformer: spatial transformer network, which allows the spatial manipulation of data within the network.  
+video_prediction: predicting future video frames with neural advection.  
