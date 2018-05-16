@@ -1,4 +1,4 @@
-<font size=20>doc</font> 
+##doc
 
 https://github.com/tensorflow/models/tree/master/research
 TensorFlow Research Models
@@ -7,7 +7,7 @@ This folder contains machine learning models implemented by researchers in Tenso
 
 Currently, the models are compatible with TensorFlow 1.0 or later. If you are running TensorFlow 0.12 or earlier, please upgrade your installation.
 
-<font size=20>Models</font> 
+##Models
 
 adversarial_crypto: protecting communications with adversarial neural cryptography.  
 adversarial_text: semi-supervised sequence learning with adversarial training.  
