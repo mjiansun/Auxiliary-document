@@ -56,14 +56,16 @@ video_prediction: predicting future video frames with neural advection.
 lua:https://github.com/jcjohnson/fast-neural-style  
 tensorflow:https://github.com/hzy46/fast-neural-style-tensorflow  
 pytorch:https://github.com/abhiskk/fast-neural-style  
-(2)Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer(AdaIN)  
+(2)Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(texture_nets)  
+chainer:https://github.com/yusuketomoto/chainer-fast-neuralstyle  
+lua:https://github.com/DmitryUlyanov/texture_nets  
+(3)Instance Normalization: The Missing Ingredient for Fast Stylization(IN)  
+lua:https://github.com/DmitryUlyanov/texture_nets  
+(4)Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer(AdaIN)  
 lua:https://github.com/xunhuang1995/AdaIN-style
 <br/>pytorch:https://github.com/naoto0804/pytorch-AdaIN</br>
 tensorflow:https://github.com/elleryqueenhomels/arbitrary_style_transfer  
-(3)Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(texture_nets)  
-chainer:https://github.com/yusuketomoto/chainer-fast-neuralstyle  
-lua:https://github.com/DmitryUlyanov/texture_nets  
-(4)Instance Normalization: The Missing Ingredient for Fast Stylization(IN)  
-lua:https://github.com/DmitryUlyanov/texture_nets  
-
-
+(5)Controlling Perceptual Factors in Neural Style Transfer  
+lua:https://github.com/leongatys/NeuralImageSynthesis  
+(6)Deep Photo Style Transfer  
+lua:https://github.com/luanfujun/deep-photo-styletransfer  
