@@ -61,6 +61,7 @@ lua:https://github.com/xunhuang1995/AdaIN-style
 <br/>pytorch:https://github.com/naoto0804/pytorch-AdaIN</br>
 tensorflow:https://github.com/elleryqueenhomels/arbitrary_style_transfer  
 (3)Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(texture_nets)  
+chainer:https://github.com/yusuketomoto/chainer-fast-neuralstyle
 lua:https://github.com/DmitryUlyanov/texture_nets  
 (4)Instance Normalization: The Missing Ingredient for Fast Stylization(IN)  
 lua:https://github.com/DmitryUlyanov/texture_nets  
