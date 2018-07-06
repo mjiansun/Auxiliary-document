@@ -50,3 +50,19 @@ tcn: Self-supervised representation learning from multi-view video.
 textsum: sequence-to-sequence with attention model for text summarization.  
 transformer: spatial transformer network, which allows the spatial manipulation of data within the network.  
 video_prediction: predicting future video frames with neural advection.  
+
+# Transform style
+1)Perceptual Losses for Real-Time Style Transfer and Super-Resolution(fast-neural-style)  
+lua:https://github.com/jcjohnson/fast-neural-style  
+tensorflow:https://github.com/hzy46/fast-neural-style-tensorflow  
+pytorch:https://github.com/abhiskk/fast-neural-style  
+2)Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer(AdaIN)  
+lua:https://github.com/xunhuang1995/AdaIN-style
+<br/>pytorch:https://github.com/naoto0804/pytorch-AdaIN</br>
+<br/>tensorflow:https://github.com/elleryqueenhomels/arbitrary_style_transfer</br>
+3)Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(texture_nets)  
+lua:https://github.com/DmitryUlyanov/texture_nets  
+4)Instance Normalization: The Missing Ingredient for Fast Stylization(IN)  
+lua:https://github.com/DmitryUlyanov/texture_nets  
+
+
