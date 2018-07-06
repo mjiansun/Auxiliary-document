@@ -69,3 +69,5 @@ tensorflow:https://github.com/elleryqueenhomels/arbitrary_style_transfer
 lua:https://github.com/leongatys/NeuralImageSynthesis  
 (6)Deep Photo Style Transfer  
 lua:https://github.com/luanfujun/deep-photo-styletransfer  
+tensorflow:https://github.com/NVIDIA/FastPhotoStyle  
+pytorch:https://github.com/NVIDIA/FastPhotoStyle  
