@@ -59,7 +59,7 @@ pytorch:https://github.com/abhiskk/fast-neural-style
 2)Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer(AdaIN)  
 lua:https://github.com/xunhuang1995/AdaIN-style
 <br/>pytorch:https://github.com/naoto0804/pytorch-AdaIN</br>
-<br/>tensorflow:https://github.com/elleryqueenhomels/arbitrary_style_transfer</br>
+tensorflow:https://github.com/elleryqueenhomels/arbitrary_style_transfer  
 3)Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(texture_nets)  
 lua:https://github.com/DmitryUlyanov/texture_nets  
 4)Instance Normalization: The Missing Ingredient for Fast Stylization(IN)  
