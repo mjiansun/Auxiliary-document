@@ -74,6 +74,7 @@ lua:https://github.com/leongatys/NeuralImageSynthesis
 https://blog.csdn.net/cicibabe/article/details/70868746  
 lua:https://github.com/luanfujun/deep-photo-styletransfer  
 tensorflow:https://github.com/NVIDIA/FastPhotoStyle  
+tensorflow:https://github.com/martinbenson/deep-photo-styletransfer  
 pytorch:https://github.com/NVIDIA/FastPhotoStyle  
 (7)Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks(cyclegan)  
 torch:https://github.com/junyanz/CycleGAN  
