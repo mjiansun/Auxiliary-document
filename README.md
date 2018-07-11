@@ -57,9 +57,9 @@ https://www.jianshu.com/p/b728752a70e9
 lua:https://github.com/jcjohnson/fast-neural-style  
 tensorflow:https://github.com/hzy46/fast-neural-style-tensorflow  
 pytorch:https://github.com/abhiskk/fast-neural-style  
+chainer:https://github.com/yusuketomoto/chainer-fast-neuralstyle   
 (2)Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(texture_nets)  
-https://www.jianshu.com/p/1187049ae1ad  
-chainer:https://github.com/yusuketomoto/chainer-fast-neuralstyle  
+https://www.jianshu.com/p/1187049ae1ad   
 lua:https://github.com/DmitryUlyanov/texture_nets  
 (3)Instance Normalization: The Missing Ingredient for Fast Stylization(IN)  
 https://www.jianshu.com/p/d77b6273b990  
