@@ -80,3 +80,15 @@ pytorch:https://github.com/NVIDIA/FastPhotoStyle
 (7)Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks(cyclegan)  
 torch:https://github.com/junyanz/CycleGAN  
 pytorch:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  
+
+# face alignment  
+(1)Look at Boundary: A Boundary-Aware Face Alignment Algorithm
+https://github.com/wywu/LAB  
+
+# detection  
+(1)https://arxiv.org/abs/1703.06870  
+mx:https://github.com/TuSimple/mx-maskrcnn  
+tf:https://github.com/CharlesShang/FastMaskRCNN  
+keras+tf:https://github.com/matterport/Mask_RCNN  
+(2)https://arxiv.org/abs/1611.07709  
+https://github.com/msracver/FCIS  
