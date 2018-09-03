@@ -52,8 +52,8 @@ transformer: spatial transformer network, which allows the spatial manipulation 
 video_prediction: predicting future video frames with neural advection. 
 
 # Slim  
-https://github.com/tensorflow/models/tree/master/research/slim
-Model	TF-Slim File	Checkpoint	Top-1 Accuracy	Top-5 Accuracy
+https://github.com/tensorflow/models/tree/master/research/slim  
+Model	TF-Slim | File |	Checkpoint |	Top-1 Accuracy |	Top-5 Accuracy
 Inception V1	Code	inception_v1_2016_08_28.tar.gz	69.8	89.6
 Inception V2	Code	inception_v2_2016_08_28.tar.gz	73.9	91.8
 Inception V3	Code	inception_v3_2016_08_28.tar.gz	78.0	93.9
