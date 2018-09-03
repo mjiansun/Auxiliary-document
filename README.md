@@ -53,7 +53,7 @@ video_prediction: predicting future video frames with neural advection.
 
 # Slim  
 https://github.com/tensorflow/models/tree/master/research/slim  
-
+![Slim model](https://github.com/mjiansun/Auxiliary-document/blob/master/slim_model.png "Slim model")
 
 # Transform style
 (1)Perceptual Losses for Real-Time Style Transfer and Super-Resolution(fast-neural-style)  
