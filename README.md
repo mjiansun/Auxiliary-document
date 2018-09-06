@@ -92,6 +92,7 @@ pytorch:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 https://github.com/wywu/LAB  
 
 # Detection  
+my blog:https://blog.csdn.net/u013066730/article/details/82460392  
 (1)maskrcnn https://arxiv.org/abs/1703.06870  
 mx:https://github.com/TuSimple/mx-maskrcnn  
 tf:https://github.com/CharlesShang/FastMaskRCNN  
