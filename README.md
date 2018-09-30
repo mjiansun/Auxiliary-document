@@ -112,6 +112,7 @@ chainer:https://github.com/chainer
 pytorch:https://github.com/pytorch  
 baidu:https://github.com/baidu-research  
 pydicom:https://github.com/pydicom  
+mxnet:https://github.com/dmlc  
 
 # Article  
 cvpr,iccv:http://openaccess.thecvf.com/menu.py  
