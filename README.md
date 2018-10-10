@@ -102,7 +102,8 @@ https://github.com/msracver/FCIS
 
 # Classification
 (1)PCANet https://arxiv.org/pdf/1404.3606.pdf  
-https://github.com/IshitaTakeshi/PCANet  
+chainer:https://github.com/IshitaTakeshi/PCANet  
+scalar c++:https://github.com/Ldpe2G/PCANet
 
 # Organization  
 microsoft:https://github.com/Microsoft  
