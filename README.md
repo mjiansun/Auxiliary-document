@@ -106,6 +106,12 @@ chainer:https://github.com/IshitaTakeshi/PCANet
 scalar c++:https://github.com/Ldpe2G/PCANet
 
 # Organization  
+chainer:https://github.com/chainer  
+pytorch:https://github.com/pytorch  
+pydicom:https://github.com/pydicom  
+mxnet:https://github.com/dmlc  
+baidu:https://github.com/baidu-research  
+tencent：https://github.com/Tencent  
 microsoft:https://github.com/Microsoft  
 facebook:https://github.com/facebookresearch  
 google:https://github.com/google  
@@ -113,11 +119,6 @@ opencv:https://github.com/opencv
 deepinsight:https://github.com/deepinsight  
 cmusatyalab:https://github.com/cmusatyalab  
 nvidia:https://github.com/NVIDIA  
-chainer:https://github.com/chainer  
-pytorch:https://github.com/pytorch  
-baidu:https://github.com/baidu-research  
-pydicom:https://github.com/pydicom  
-mxnet:https://github.com/dmlc  
 
 # Article  
 cvpr,iccv:http://openaccess.thecvf.com/menu.py  
