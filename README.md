@@ -122,3 +122,7 @@ mxnet:https://github.com/dmlc
 # Article  
 cvpr,iccv:http://openaccess.thecvf.com/menu.py  
 eccv:https://dblp.uni-trier.de/db/conf/eccv/index.html  
+
+# Live video
+https://github.com/stlndm/linke
+https://github.com/ChinaArJun/Tencent-NOW
