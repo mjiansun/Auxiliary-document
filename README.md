@@ -137,5 +137,5 @@ https://github.com/stlndm/linke
 https://github.com/ChinaArJun/Tencent-NOW  
 
 # Course
-1）Stanford:https://www.coursera.org/learn/machine-learning
+1）Stanford:https://www.coursera.org/learn/machine-learning  
 code:https://github.com/yoyoyohamapi/mit-ml
