@@ -134,4 +134,8 @@ eccv:https://dblp.uni-trier.de/db/conf/eccv/index.html
 
 # Live video
 https://github.com/stlndm/linke
-https://github.com/ChinaArJun/Tencent-NOW
+https://github.com/ChinaArJun/Tencent-NOW  
+
+# Course
+1）Stanford:https://www.coursera.org/learn/machine-learning
+code:https://github.com/yoyoyohamapi/mit-ml
