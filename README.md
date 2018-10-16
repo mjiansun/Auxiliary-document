@@ -99,6 +99,8 @@ tf:https://github.com/CharlesShang/FastMaskRCNN
 keras+tf:https://github.com/matterport/Mask_RCNN  
 (2)FCIS https://arxiv.org/abs/1611.07709  
 https://github.com/msracver/FCIS  
+(3)SSD http://arxiv.org/abs/1512.02325
+caffe:https://github.com/weiliu89/caffe/tree/ssd  
 
 # Classification
 (1)PCANet https://arxiv.org/pdf/1404.3606.pdf  
