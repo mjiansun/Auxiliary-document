@@ -92,6 +92,10 @@ pytorch:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 https://arxiv.org/pdf/1711.07064.pdf  
 keras:https://github.com/RaphaelMeudec/deblur-gan  
 
+# Simultaneous interpretation
+(1)STACL: Simultaneous Translation with Integrated Anticipation and Controllable Latency  
+https://arxiv.org/pdf/1810.08398.pdf  
+
 # Face alignment  
 (1)Look at Boundary: A Boundary-Aware Face Alignment Algorithm  
 https://github.com/wywu/LAB  
