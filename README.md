@@ -88,6 +88,7 @@ torch:https://github.com/junyanz/CycleGAN
 pytorch:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  
 
 # Defuzzification  
+(1)DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks  
 https://arxiv.org/pdf/1711.07064.pdf  
 keras:https://github.com/RaphaelMeudec/deblur-gan  
 
