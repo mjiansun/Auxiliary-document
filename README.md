@@ -92,7 +92,7 @@ https://arxiv.org/pdf/1711.07064.pdf
 keras:https://github.com/RaphaelMeudec/deblur-gan  
 
 # Face alignment  
-(1)Look at Boundary: A Boundary-Aware Face Alignment Algorithm
+(1)Look at Boundary: A Boundary-Aware Face Alignment Algorithm  
 https://github.com/wywu/LAB  
 
 # Detection  
