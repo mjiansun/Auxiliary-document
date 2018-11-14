@@ -125,7 +125,7 @@ pytorch:https://github.com/facebookresearch/maskrcnn-benchmark
 caffe2:https://github.com/facebookresearch/Detectron  
 (2)FCIS https://arxiv.org/abs/1611.07709  
 https://github.com/msracver/FCIS  
-(3)SSD http://arxiv.org/abs/1512.02325
+(3)SSD http://arxiv.org/abs/1512.02325  
 caffe:https://github.com/weiliu89/caffe/tree/ssd  
 
 # Classification
