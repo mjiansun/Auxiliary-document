@@ -100,12 +100,29 @@ https://arxiv.org/pdf/1810.08398.pdf
 (1)Look at Boundary: A Boundary-Aware Face Alignment Algorithm  
 https://github.com/wywu/LAB  
 
+# Base network  
+(1)Mobile Net v1(MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications)  
+caffe:https://github.com/shicai/MobileNet-Caffe  
+(2)Mobile Net v2(MobileNetV2: Inverted Residuals and Linear Bottlenecks)  
+caffe:https://github.com/shicai/MobileNet-Caffe  
+(3)Resnet(Deep Residual Learning for Image Recognition)  
+pytorch:https://github.com/Cadene/pretrained-models.pytorch  
+(4)VGG(Very Deep Convolutional Networks for Large-Scale Image Recognition)  
+(5)Google Net  
+https://blog.csdn.net/u011974639/article/details/76460849#googlenet  
+Inception V1:Going deeper with convolutions  
+Inception V2:Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift  
+Inception V3:Rethinking the Inception Architecture for Computer Vision  
+Inception V4:Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning  
+
 # Detection  
 my blog:https://blog.csdn.net/u013066730/article/details/82460392  
 (1)maskrcnn https://arxiv.org/abs/1703.06870  
 mx:https://github.com/TuSimple/mx-maskrcnn  
 tf:https://github.com/CharlesShang/FastMaskRCNN  
 keras+tf:https://github.com/matterport/Mask_RCNN  
+pytorch:https://github.com/facebookresearch/maskrcnn-benchmark  
+caffe2:https://github.com/facebookresearch/Detectron  
 (2)FCIS https://arxiv.org/abs/1611.07709  
 https://github.com/msracver/FCIS  
 (3)SSD http://arxiv.org/abs/1512.02325
