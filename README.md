@@ -100,7 +100,7 @@ https://arxiv.org/pdf/1810.08398.pdf
 (1)Look at Boundary: A Boundary-Aware Face Alignment Algorithm  
 https://github.com/wywu/LAB  
 
-# Base network  
+# Backbone network  
 (1)Mobile Net v1(MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications)  
 caffe:https://github.com/shicai/MobileNet-Caffe  
 (2)Mobile Net v2(MobileNetV2: Inverted Residuals and Linear Bottlenecks)  
