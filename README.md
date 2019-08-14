@@ -139,6 +139,9 @@ scalar c++:https://github.com/Ldpe2G/PCANet
 https://codeac29.github.io/projects/linknet/  
 lua:https://github.com/mjiansun/LinkNet  
 
+# Retrieval  
+https://github.com/willard-yuan/awesome-cbir-papers  
+
 # Organization  
 chainer:https://github.com/chainer  
 pytorch:https://github.com/pytorch  
