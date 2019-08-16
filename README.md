@@ -142,6 +142,10 @@ lua:https://github.com/mjiansun/LinkNet
 # Retrieval  
 https://github.com/willard-yuan/awesome-cbir-papers  
 
+# GAN  
+tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections  
+pytorch:https://github.com/znxlwm/pytorch-generative-model-collections  
+
 # Organization  
 chainer:https://github.com/chainer  
 pytorch:https://github.com/pytorch  
