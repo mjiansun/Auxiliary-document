@@ -145,6 +145,7 @@ https://github.com/willard-yuan/awesome-cbir-papers
 # GAN  
 tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections  
 pytorch:https://github.com/znxlwm/pytorch-generative-model-collections  
+article:https://github.com/zhangqianhui/AdversarialNetsPapers  
 
 # Organization  
 chainer:https://github.com/chainer  
