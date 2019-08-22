@@ -150,8 +150,8 @@ article:https://github.com/zhangqianhui/AdversarialNetsPapers
 pytorch:https://github.com/yunjey/StarGAN  
 (2)cyclegan  
 pytorch:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  
-(3)
-
+(3)wgan  
+pytorch:https://github.com/caogang/wgan-gp  
 
 # Organization  
 chainer:https://github.com/chainer  
