@@ -152,8 +152,10 @@ pytorch:https://github.com/yunjey/StarGAN
 pytorch:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  
 (3)wgan  
 pytorch:https://github.com/caogang/wgan-gp  
-(4)staingan
-article&code:https://xtarx.github.io/StainGAN/
+(4)staingan  
+article&code:https://xtarx.github.io/StainGAN/  
+## GAN FOR MEDICAL  
+https://github.com/xinario/awesome-gan-for-medical-imaging  
 
 # Organization  
 chainer:https://github.com/chainer  
