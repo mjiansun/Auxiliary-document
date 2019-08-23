@@ -152,6 +152,8 @@ pytorch:https://github.com/yunjey/StarGAN
 pytorch:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  
 (3)wgan  
 pytorch:https://github.com/caogang/wgan-gp  
+(4)staingan
+article&code:https://xtarx.github.io/StainGAN/
 
 # Organization  
 chainer:https://github.com/chainer  
