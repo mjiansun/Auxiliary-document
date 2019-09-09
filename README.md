@@ -129,7 +129,8 @@ https://github.com/msracver/FCIS
 (3)SSD http://arxiv.org/abs/1512.02325  
 caffe:https://github.com/weiliu89/caffe/tree/ssd  
 
-# Classification
+# Classification  
+https://github.com/Cadene/pretrained-models.pytorch  
 (1)PCANet https://arxiv.org/pdf/1404.3606.pdf  
 chainer:https://github.com/IshitaTakeshi/PCANet  
 scalar c++:https://github.com/Ldpe2G/PCANet  
