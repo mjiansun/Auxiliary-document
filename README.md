@@ -134,6 +134,7 @@ https://github.com/Cadene/pretrained-models.pytorch
 (1)PCANet https://arxiv.org/pdf/1404.3606.pdf  
 chainer:https://github.com/IshitaTakeshi/PCANet  
 scalar c++:https://github.com/Ldpe2G/PCANet  
+(2)CBAM&BAM:https://github.com/Jongchan/attention-module  
 
 # Segmentation
 (1)Linknet:https://arxiv.org/abs/1707.03718  
