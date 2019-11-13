@@ -118,6 +118,7 @@ Inception V4:Inception-v4, Inception-ResNet and the Impact of Residual Connectio
 # Detection  
 https://github.com/hoya012/deep_learning_object_detection  
 my blog:https://blog.csdn.net/u013066730/article/details/82460392  
+https://github.com/tensorflow/models/tree/master/research/object_detection  
 (1)maskrcnn https://arxiv.org/abs/1703.06870  
 mx:https://github.com/TuSimple/mx-maskrcnn  
 tf:https://github.com/CharlesShang/FastMaskRCNN  
