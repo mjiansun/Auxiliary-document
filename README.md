@@ -57,6 +57,9 @@ https://github.com/tensorflow/models/tree/master/research/slim
 ## Nasnet  
 https://blog.csdn.net/qq_36356761/article/details/79521694  
 
+# Mxnet(啥都有)
+https://github.com/dmlc/gluon-cv  
+
 # Transform style
 (1)Perceptual Losses for Real-Time Style Transfer and Super-Resolution(fast-neural-style)  
 https://www.jianshu.com/p/b728752a70e9  
