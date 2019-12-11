@@ -140,7 +140,8 @@ chainer:https://github.com/IshitaTakeshi/PCANet
 scalar c++:https://github.com/Ldpe2G/PCANet  
 (2)CBAM&BAM:https://github.com/Jongchan/attention-module  
 
-# Segmentation
+# Segmentation  
+https://github.com/mrgloom/awesome-semantic-segmentation  
 (1)Linknet:https://arxiv.org/abs/1707.03718  
 https://codeac29.github.io/projects/linknet/  
 lua:https://github.com/mjiansun/LinkNet  
