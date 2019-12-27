@@ -60,6 +60,21 @@ https://blog.csdn.net/qq_36356761/article/details/79521694
 # Mxnet(啥都有)
 https://github.com/dmlc/gluon-cv  
 
+# pytorch  
+https://github.com/pytorch/examples  
+(1)Image classification (MNIST) using Convnets  
+(2)Word level Language Modeling using LSTM RNNs  
+(3)Training Imagenet Classifiers with Residual Networks  
+(4)Generative Adversarial Networks (DCGAN)  
+(5)Variational Auto-Encoders  
+(6)Superresolution using an efficient sub-pixel convolutional neural network  
+(7)Hogwild training of shared ConvNets across multiple processes on MNIST  
+(8)Training a CartPole to balance in OpenAI Gym with actor-critic  
+(9)Natural Language Inference (SNLI) with GloVe vectors, LSTMs, and torchtext  
+(10)Time sequence prediction - use an LSTM to learn Sine waves  
+(11)Implement the Neural Style Transfer algorithm on images  
+(12)Several examples illustrating the C++ Frontend  
+
 # Transform style
 (1)Perceptual Losses for Real-Time Style Transfer and Super-Resolution(fast-neural-style)  
 https://www.jianshu.com/p/b728752a70e9  
