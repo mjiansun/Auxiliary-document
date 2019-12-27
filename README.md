@@ -60,7 +60,7 @@ https://blog.csdn.net/qq_36356761/article/details/79521694
 # Mxnet(啥都有)
 https://github.com/dmlc/gluon-cv  
 
-# pytorch  
+# Pytorch  
 https://github.com/pytorch/examples  
 (1)Image classification (MNIST) using Convnets  
 (2)Word level Language Modeling using LSTM RNNs  
