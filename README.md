@@ -147,6 +147,8 @@ caffe2:https://github.com/facebookresearch/Detectron
 https://github.com/msracver/FCIS  
 (3)SSD http://arxiv.org/abs/1512.02325  
 caffe:https://github.com/weiliu89/caffe/tree/ssd  
+(4)M2Det https://qijiezhao.github.io/imgs/m2det.pdf  
+pytorch:https://github.com/qijiezhao/M2Det  
 
 # Classification  
 https://github.com/Cadene/pretrained-models.pytorch  
