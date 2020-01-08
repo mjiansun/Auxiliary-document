@@ -149,6 +149,8 @@ https://github.com/msracver/FCIS
 caffe:https://github.com/weiliu89/caffe/tree/ssd  
 (4)M2Det https://qijiezhao.github.io/imgs/m2det.pdf  
 pytorch:https://github.com/qijiezhao/M2Det  
+(5)efficientnet  
+keras:https://github.com/xuannianz/EfficientDet
 
 # Classification  
 https://github.com/Cadene/pretrained-models.pytorch  
@@ -156,6 +158,9 @@ https://github.com/Cadene/pretrained-models.pytorch
 chainer:https://github.com/IshitaTakeshi/PCANet  
 scalar c++:https://github.com/Ldpe2G/PCANet  
 (2)CBAM&BAM:https://github.com/Jongchan/attention-module  
+(3)efficientnet  
+keras:https://github.com/qubvel/efficientnet  
+
 
 # Segmentation  
 https://github.com/mrgloom/awesome-semantic-segmentation  
