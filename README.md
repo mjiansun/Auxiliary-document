@@ -149,7 +149,7 @@ https://github.com/msracver/FCIS
 caffe:https://github.com/weiliu89/caffe/tree/ssd  
 (4)M2Det https://qijiezhao.github.io/imgs/m2det.pdf  
 pytorch:https://github.com/qijiezhao/M2Det  
-(5)efficientnet  
+(5)efficientdet  
 keras:https://github.com/xuannianz/EfficientDet
 
 # Classification  
