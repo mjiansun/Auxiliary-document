@@ -150,7 +150,9 @@ caffe:https://github.com/weiliu89/caffe/tree/ssd
 (4)M2Det https://qijiezhao.github.io/imgs/m2det.pdf  
 pytorch:https://github.com/qijiezhao/M2Det  
 (5)efficientdet  
-keras:https://github.com/xuannianz/EfficientDet
+keras:https://github.com/xuannianz/EfficientDet  
+(6)yolov3  
+keras:https://github.com/OlafenwaMoses/ImageAI#detection  
 
 # Classification  
 https://github.com/Cadene/pretrained-models.pytorch  
