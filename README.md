@@ -167,6 +167,7 @@ keras:https://github.com/qubvel/efficientnet
 # Segmentation  
 https://blog.playment.io/semantic-segmentation-models-autonomous-vehicles/  
 https://github.com/mrgloom/awesome-semantic-segmentation  
+https://mp.weixin.qq.com/s/w7pYxm52QbcFPRBe12iMdA and https://arxiv.org/abs/2001.05566  
 (1)Linknet:https://arxiv.org/abs/1707.03718  
 https://codeac29.github.io/projects/linknet/  
 lua:https://github.com/mjiansun/LinkNet  
