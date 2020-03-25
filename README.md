@@ -153,6 +153,8 @@ pytorch:https://github.com/qijiezhao/M2Det
 keras:https://github.com/xuannianz/EfficientDet  
 (6)yolov3  
 keras:https://github.com/OlafenwaMoses/ImageAI#detection  
+(7)efficientdet  
+tensorflow:https://github.com/google/automl/tree/master/efficientdet  
 
 # Classification  
 https://github.com/Cadene/pretrained-models.pytorch  
