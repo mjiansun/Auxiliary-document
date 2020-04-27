@@ -158,6 +158,7 @@ tensorflow:https://github.com/google/automl/tree/master/efficientdet
 
 # Classification  
 https://github.com/Cadene/pretrained-models.pytorch  
+https://github.com/keras-team/keras-applications  
 (1)PCANet https://arxiv.org/pdf/1404.3606.pdf  
 chainer:https://github.com/IshitaTakeshi/PCANet  
 scalar c++:https://github.com/Ldpe2G/PCANet  
@@ -205,6 +206,9 @@ CenterMask:https://arxiv.org/abs/1911.06667
 https://github.com/youngwanLEE/CenterMask  
 maskrcnn:https://arxiv.org/abs/1703.06870  
 https://github.com/matterport/Mask_RCNN  
+
+# Imbalanced learning  
+https://github.com/ZhiningLiu1998/awesome-imbalanced-learning  
 
 # TOOL  
 Pytorch2caffe:https://github.com/xxradon/PytorchToCaffe  
