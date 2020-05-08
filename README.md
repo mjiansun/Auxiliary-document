@@ -159,6 +159,7 @@ tensorflow:https://github.com/google/automl/tree/master/efficientdet
 # Classification  
 https://github.com/Cadene/pretrained-models.pytorch  
 https://github.com/keras-team/keras-applications  
+https://github.com/qubvel/classification_models  
 (1)PCANet https://arxiv.org/pdf/1404.3606.pdf  
 chainer:https://github.com/IshitaTakeshi/PCANet  
 scalar c++:https://github.com/Ldpe2G/PCANet  
