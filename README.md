@@ -208,7 +208,7 @@ https://github.com/youngwanLEE/CenterMask
 maskrcnn:https://arxiv.org/abs/1703.06870  
 https://github.com/matterport/Mask_RCNN  
 
-# Medical image registration using deep learning  
+# Medical image registration  
 https://github.com/DeepRegNet/DeepReg  
 
 # Imbalanced learning  
