@@ -222,7 +222,7 @@ https://github.com/ZhiningLiu1998/awesome-imbalanced-learning
 (2)结构或非结构剪枝：deep compression, channel pruning 和 network slimming等；  
 (3)网络结构搜索 (NAS: Network Architecture Search)：DARTS, DetNAS、NAS-FCOS、Proxyless NAS和NetAdapt等；  
 (4)其他：权重矩阵的低秩分解，知识蒸馏与网络结构简化（squeeze-net, mobile-net, shuffle-net）等；  
-简单介绍：https://blog.csdn.net/u013066730/article/details/111573882  
+知识蒸馏介绍：https://blog.csdn.net/u013066730/article/details/111573882  
 
 # TOOL  
 Pytorch2caffe:https://github.com/xxradon/PytorchToCaffe  
