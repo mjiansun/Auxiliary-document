@@ -227,7 +227,7 @@ https://github.com/ZhiningLiu1998/awesome-imbalanced-learning
 + INT4量化：NVIDIA Iterative Online Calibration [https://blog.csdn.net/nature553863/article/details/104080434], LSQ [https://blog.csdn.net/nature553863/article/details/104275477];  
 + 其他（非线性）：Intel INQ [https://arxiv.org/abs/1702.03044], log-net, CNNPack [https://papers.nips.cc/paper/6390-cnnpack-packing-convolutional-neural-networks-in-the-frequency-domain] 等；  
 + Post-training量化策略：针对预训练模型，通过适当调整kernel参数分布、或补偿量化误差，可有效提升量化效果；  
-+ 关于量化的比较系统性的论述，参考论文：Quantizing deep convolutional networks for efficient inference: A whitepaper；  
++ 关于量化的比较系统性的论述，参考论文：Quantizing deep convolutional networks for efficient inference: A whitepaper；
 **(2)结构或非结构剪枝：deep compression, channel pruning 和 network slimming等；**  
 **非结构剪枝**：通常是连接级、细粒度的剪枝方法，精度相对较高，但依赖于特定算法库或硬件平台的支持，如Deep Compression [https://arxiv.org/abs/1510.00149], Sparse-Winograd [https://arxiv.org/abs/1802.06367,  https://ai.intel.com/winograd-2/, Github: https://github.com/xingyul/Sparse-Winograd-CNN] 算法等；
 **结构剪枝**：是filter级或layer级、粗粒度的剪枝方法，精度相对较低，但剪枝策略更为有效，不需要特定算法库或硬件平台的支持，能够直接在成熟深度学习框架上运行:  
@@ -237,7 +237,7 @@ https://github.com/ZhiningLiu1998/awesome-imbalanced-learning
 + 全局方式的、可动态重新更新pruned filters参数的剪枝方法 [http://xuanyidong.com/publication/ijcai-2018-sfp/]；  
 + 基于GAN思想的GAL方法 [https://blog.csdn.net/nature553863/article/details/97631176]，可裁剪包括Channel, Branch或Block等在内的异质结构；  
 + 借助Geometric Median确定卷积滤波器冗余性的剪枝策略 [https://blog.csdn.net/nature553863/article/details/97760040]；  
-+ 基于Reinforcement Learning (RL)，实现每一层剪枝率的连续、精细控制，并可结合资源约束完成自动模型压缩 [https://github.com/mit-han-lab/amc]；  
++ 基于Reinforcement Learning (RL)，实现每一层剪枝率的连续、精细控制，并可结合资源约束完成自动模型压缩 [https://github.com/mit-han-lab/amc];
 **(3)网络结构搜索 (NAS: Network Architecture Search)：DARTS, DetNAS、NAS-FCOS、Proxyless NAS和NetAdapt等；**  
 **(4)其他：权重矩阵的低秩分解，知识蒸馏与网络结构简化（squeeze-net, mobile-net, shuffle-net）等；**  
 知识蒸馏介绍：https://blog.csdn.net/u013066730/article/details/111573882  
