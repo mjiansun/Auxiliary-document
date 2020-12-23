@@ -218,10 +218,10 @@ https://github.com/ZhiningLiu1998/awesome-imbalanced-learning
 
 # Model Compression  
 模型压缩算法能够有效降低参数冗余，从而减少存储占用、通信带宽和计算复杂度，有助于深度学习的应用部署，具体可划分为如下几种方法：  
-## 线性或非线性量化：1/2bits, int8 和 fp16等；  
-## 结构或非结构剪枝：deep compression, channel pruning 和 network slimming等；  
-## 网络结构搜索 (NAS: Network Architecture Search)：DARTS, DetNAS、NAS-FCOS、Proxyless NAS和NetAdapt等；  
-## 其他：权重矩阵的低秩分解，知识蒸馏与网络结构简化（squeeze-net, mobile-net, shuffle-net）等；  
+(1)线性或非线性量化：1/2bits, int8 和 fp16等；  
+(2)结构或非结构剪枝：deep compression, channel pruning 和 network slimming等；  
+(3)网络结构搜索 (NAS: Network Architecture Search)：DARTS, DetNAS、NAS-FCOS、Proxyless NAS和NetAdapt等；  
+(4)其他：权重矩阵的低秩分解，知识蒸馏与网络结构简化（squeeze-net, mobile-net, shuffle-net）等；  
 简单介绍：https://blog.csdn.net/u013066730/article/details/111573882  
 
 # TOOL  
