@@ -220,6 +220,15 @@ https://github.com/ZhiningLiu1998/awesome-imbalanced-learning
 模型压缩算法能够有效降低参数冗余，从而减少存储占用、通信带宽和计算复杂度，有助于深度学习的应用部署，具体可划分为如下几种方法：  
 (1)线性或非线性量化：1/2bits, int8 和 fp16等；  
 (2)结构或非结构剪枝：deep compression, channel pruning 和 network slimming等；  
+**非结构剪枝**：通常是连接级、细粒度的剪枝方法，精度相对较高，但依赖于特定算法库或硬件平台的支持，如Deep Compression [https://arxiv.org/abs/1510.00149], Sparse-Winograd [https://arxiv.org/abs/1802.06367,  https://ai.intel.com/winograd-2/, Github: https://github.com/xingyul/Sparse-Winograd-CNN] 算法等；
+**结构剪枝**：是filter级或layer级、粗粒度的剪枝方法，精度相对较低，但剪枝策略更为有效，不需要特定算法库或硬件平台的支持，能够直接在成熟深度学习框架上运行:
+&ensp;&ensp;--如局部方式的、通过layer by layer方式的、最小化输出FM重建误差的Channel Pruning [7], ThiNet [8], Discrimination-aware Channel Pruning [9]；
+&ensp;&ensp;--全局方式的、通过训练期间对BN层Gamma系数施加L1正则约束的Network Slimming [10]；
+&ensp;&ensp;--全局方式的、按Taylor准则对Filter作重要性排序的Neuron Pruning [11]；
+&ensp;&ensp;--全局方式的、可动态重新更新pruned filters参数的剪枝方法 [12]；
+&ensp;&ensp;--基于GAN思想的GAL方法 [24]，可裁剪包括Channel, Branch或Block等在内的异质结构；
+&ensp;&ensp;--借助Geometric Median确定卷积滤波器冗余性的剪枝策略 [28]；
+&ensp;&ensp;基于Reinforcement Learning (RL)，实现每一层剪枝率的连续、精细控制，并可结合资源约束完成自动模型压缩 [31]；
 (3)网络结构搜索 (NAS: Network Architecture Search)：DARTS, DetNAS、NAS-FCOS、Proxyless NAS和NetAdapt等；  
 (4)其他：权重矩阵的低秩分解，知识蒸馏与网络结构简化（squeeze-net, mobile-net, shuffle-net）等；  
 知识蒸馏介绍：https://blog.csdn.net/u013066730/article/details/111573882  
