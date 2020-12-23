@@ -247,6 +247,7 @@ https://github.com/ZhiningLiu1998/awesome-imbalanced-learning
 
 **(4)其他：权重矩阵的低秩分解，知识蒸馏与网络结构简化（squeeze-net, mobile-net, shuffle-net）等；**  
 知识蒸馏介绍：https://blog.csdn.net/u013066730/article/details/111573882  
+百度的知识蒸馏SSLD：https://github.com/PaddlePaddle/PaddleClas/blob/master/docs/zh_CN/advanced_tutorials/distillation/distillation.md
 
 # TOOL  
 Pytorch2caffe:https://github.com/xxradon/PytorchToCaffe  
