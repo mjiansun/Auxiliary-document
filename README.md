@@ -217,6 +217,7 @@ https://github.com/DeepRegNet/DeepReg
 https://github.com/ZhiningLiu1998/awesome-imbalanced-learning  
 
 # Model Compression  
+以下参考：https://blog.csdn.net/nature553863/article/details/81083955  
 模型压缩算法能够有效降低参数冗余，从而减少存储占用、通信带宽和计算复杂度，有助于深度学习的应用部署，具体可划分为如下几种方法：  
 **(1)线性或非线性量化：1/2bits, int8 和 fp16等**  
 模型量化是指权重或激活输出可以被聚类到一些离散、低精度（reduced precision）的数值点上，通常依赖于特定算法库或硬件平台的支持：  
