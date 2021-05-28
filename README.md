@@ -250,7 +250,16 @@ https://github.com/ZhiningLiu1998/awesome-imbalanced-learning
 知识蒸馏介绍：https://blog.csdn.net/u013066730/article/details/111573882  
 百度的知识蒸馏SSLD：https://github.com/PaddlePaddle/PaddleClas/blob/master/docs/zh_CN/advanced_tutorials/distillation/distillation.md  
 知识蒸馏论文代码整理：https://github.com/dkozlov/awesome-knowledge-distillation  
-论文：Exploring knowledge distillation of DNNs for efficient hardware solutions, https://github.com/peterliht/knowledge-distillation-pytorch
+论文：Exploring knowledge distillation of DNNs for efficient hardware solutions, https://github.com/peterliht/knowledge-distillation-pytorch  
+
+# Image Quality
+## Super Resolution
+https://tefuirnever.blog.csdn.net/article/details/90719309  
+https://zhuanlan.zhihu.com/p/31664818  
+https://www.cnblogs.com/carsonzhu/p/10860594.html  
+EDSR:https://github.com/sanghyun-son/EDSR-PyTorch  
+## Probability Estimation
+noise2noise:https://github.com/NVlabs/noise2noise  
 
 # TOOL  
 Pytorch2caffe:https://github.com/xxradon/PytorchToCaffe  
